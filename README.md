@@ -1,28 +1,15 @@
 ---
-description: SSH Automatic Login using Keys
+description: A Greeting message from myself.
 ---
 
-# SSH Automatic Login
+# Welcome to Isu's Wiki
 
-### On Your PC
+I personally forget tons of things: from simple code snippets to Kubernetes knowledges. Therefore, I made this wiki for myself trying not to lose information and reinvent the wheel again and again with the same subject.
 
-```
-ssh-keygen
-```
+### Disclaimer
 
-### On SSH Server
+* There might be some wrong knowledge in this wiki. If you find some errors or dead wrong knowledges, please let me know by PR.
+* This repository is automatically generated special thanks to [GitBook](https://www.gitbook.com/).
+* Feel free to look for any information you need, also feel free to share those knowledge
+* Only PRs which are considered **critical** will be accepted.&#x20;
 
-```
-mkdir -p ~/.ssh
-echo PUB_KEY_STRING >> ~/.ssh/authorized_keys
-chmod -R go= ~/.ssh
-chown -R username ~/.ssh
-```
-
-Replace `PUB_KEY_STRING` to the content that was in your `~/.ssh/id_rsa.pub`
-
-### Oneliner - On Your PC
-
-```
-cat ~/.ssh/id_rsa.pub | ssh username@remote_host "mkdir -p ~/.ssh && touch ~/.ssh/authorized_keys && chmod -R go= ~/.ssh && cat >> ~/.ssh/authorized_keys"
-```
