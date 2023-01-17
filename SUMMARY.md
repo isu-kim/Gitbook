@@ -12,4 +12,5 @@
 
 ## LaTeX
 
+* [Code Snippet with Box in LaTeX](latex/code-snippet-with-box-in-latex.md)
 * [LaTeX Coming Soon!](latex/latex-coming-soon.md)
