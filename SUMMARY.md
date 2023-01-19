@@ -7,6 +7,7 @@
 * [SSH Automatic Login](linux/ssh-automatic-login.md)
 * [Nginx HTTPS](linux/nginx-https.md)
 * [OpenVPN Server](linux/openvpn-server.md)
+* [PPTP Client Settings](linux/pptp-client-settings.md)
 
 ## Kubernetes
 
