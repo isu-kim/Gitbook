@@ -32,3 +32,10 @@ server {
 ```
 
 > Set `DOMAIN_NAME` as your domain name that you have generated SSL with. The config above will also redirect HTTP to HTTPS as well
+
+### Reload Nginx
+
+```
+sudo systemctl restart nginx
+```
+
