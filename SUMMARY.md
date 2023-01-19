@@ -5,6 +5,7 @@
 ## Linux
 
 * [SSH Automatic Login](linux/ssh-automatic-login.md)
+* [Nginx HTTPS](linux/nginx-https.md)
 
 ## Kubernetes
 
