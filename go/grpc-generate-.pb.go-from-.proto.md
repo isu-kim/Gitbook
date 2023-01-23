@@ -60,13 +60,21 @@ When you have set your `go_package` as following:
 option go_package = "./nodes";
 ```
 
-This will generate your `nodes_grpc.pb.go` file under `./nodes` directory. To do this, execute following command in the same directory where your `nodes.proto` resides in:
+This will generate your `nodes.pb.go` file under `./nodes` directory. To do this, execute following command in the same directory where your `nodes.proto` resides in:
 
 ```
-protoc -I . --go-grpc_out=. nodes.proto
+protoc -I . --go_out=. nodes.proto
 ```
 
 This will generate the `.pb.go` file for gRPC
+
+### 4. Generate \_grpc.pb.go
+
+Just like `.pb.go`, following command will generate `nodes_grpc.pb.go` under `./nodes` directory. To do this, execute following command in the same directory where your `nodes.proto` resides in:
+
+```
+protoc -I . --protoc-gen-go=. nodes.proto
+```
 
 <details>
 
