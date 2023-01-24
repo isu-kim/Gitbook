@@ -73,7 +73,7 @@ This will generate the `.pb.go` file for gRPC
 Just like `.pb.go`, following command will generate `nodes_grpc.pb.go` under `./nodes` directory. To do this, execute following command in the same directory where your `nodes.proto` resides in:
 
 ```
-protoc -I . --protoc-gen-go=. nodes.proto
+protoc -I . --protoc-gen_go=. nodes.proto 
 ```
 
 <details>
