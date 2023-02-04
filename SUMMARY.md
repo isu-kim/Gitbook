@@ -21,3 +21,7 @@
 ## Go
 
 * [\[gRPC\] Generate .pb.go from .proto](go/grpc-generate-.pb.go-from-.proto.md)
+
+## eBPF
+
+* [\[Python\] Install BCC](ebpf/python-install-bcc.md)
