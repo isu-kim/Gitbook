@@ -2,7 +2,7 @@
 description: Overcommit hypervisor and allocate more resources.
 ---
 
-# \[Microstack] Overcommit Hypervisor
+# \[Microstack] Overcommit Resources
 
 Just like Kubernetes's resource policy (`requests` and `limits`), OpenStack offers us options to overcommit. You can achieve this by using `aggregate` option.
 

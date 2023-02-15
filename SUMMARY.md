@@ -9,6 +9,7 @@
 * [Nginx Login Page](linux/nginx-login-page.md)
 * [OpenVPN Server](linux/openvpn-server.md)
 * [PPTP Client Settings](linux/pptp-client-settings.md)
+* [LVM Allocation](linux/lvm-allocation.md)
 
 ## Kubernetes
 
@@ -31,4 +32,4 @@
 * [\[Microstack\] Add Image](openstack/microstack-add-image.md)
 * [\[Microstack\] Quota Manage](openstack/microstack-quota-manage.md)
 * [\[Microstack\] Security Group](openstack/microstack-security-group.md)
-* [\[Microstack\] Overcommit Hypervisor](openstack/microstack-overcommit-hypervisor.md)
+* [\[Microstack\] Overcommit Resources](openstack/microstack-overcommit-resources.md)
