@@ -10,6 +10,7 @@
 * [OpenVPN Server](linux/openvpn-server.md)
 * [PPTP Client Settings](linux/pptp-client-settings.md)
 * [LVM Allocation](linux/lvm-allocation.md)
+* [Partition and Mount](linux/partition-and-mount.md)
 
 ## Kubernetes
 
