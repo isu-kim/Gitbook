@@ -26,6 +26,7 @@
 
 ## eBPF
 
+* [\[Cilium\] TroubleShooting](ebpf/cilium-troubleshooting.md)
 * [\[Python\] Install BCC](ebpf/python-install-bcc.md)
 
 ## Openstack
