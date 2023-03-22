@@ -35,3 +35,4 @@
 * [\[Microstack\] Quota Manage](openstack/microstack-quota-manage.md)
 * [\[Microstack\] Security Group](openstack/microstack-security-group.md)
 * [\[Microstack\] Overcommit Resources](openstack/microstack-overcommit-resources.md)
+* [\[Magnum\] TroubleShooting](openstack/magnum-troubleshooting.md)
