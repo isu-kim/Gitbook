@@ -26,6 +26,7 @@
 
 ## eBPF
 
+* [\[Kprobe\] Get argument values](ebpf/kprobe-get-argument-values.md)
 * [\[Cilium\] TroubleShooting](ebpf/cilium-troubleshooting.md)
 * [\[Python\] Install BCC](ebpf/python-install-bcc.md)
 
