@@ -2,7 +2,7 @@
 description: Get argument values of an event using Cilium's eBPF
 ---
 
-# \[Kprobe] Get argument values
+# \[Kprobe] Get Argument Values
 
 ### 0. Background
 
