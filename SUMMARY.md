@@ -30,14 +30,19 @@
 * [\[Cilium\] TroubleShooting](ebpf/cilium-troubleshooting.md)
 * [\[Python\] Install BCC](ebpf/python-install-bcc.md)
 
-## Openstack
+## MicroStack
 
-* [\[Microstack\] Add Image](openstack/microstack-add-image.md)
-* [\[Microstack\] Quota Manage](openstack/microstack-quota-manage.md)
-* [\[Microstack\] Security Group](openstack/microstack-security-group.md)
-* [\[Microstack\] Overcommit Resources](openstack/microstack-overcommit-resources.md)
-* [\[Magnum\] TroubleShooting](openstack/magnum-troubleshooting.md)
+* [\[Microstack\] Add Image](microstack/microstack-add-image.md)
+* [\[Microstack\] Quota Manage](microstack/microstack-quota-manage.md)
+* [\[Microstack\] Security Group](microstack/microstack-security-group.md)
+* [\[Microstack\] Overcommit Resources](microstack/microstack-overcommit-resources.md)
 
 ## CentOS
 
 * [Change Interface Name](centos/change-interface-name.md)
+
+## OpenStack
+
+* [\[Nova\] noVNC not working](openstack/nova-novnc-not-working.md)
+* [\[Basic\] OpenStack Installation](openstack/basic-openstack-installation.md)
+* [\[Magnum\] TroubleShooting](openstack/magnum-troubleshooting.md)
