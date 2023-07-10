@@ -42,6 +42,7 @@
 ## CentOS
 
 * [Change Interface Name](centos/change-interface-name.md)
+* [Install Vagrant with vagrant-libvirt](centos/install-vagrant-with-vagrant-libvirt.md)
 
 ## OpenStack
 
