@@ -17,6 +17,7 @@
 ## Kubernetes
 
 * [Kubernetes Reset](kubernetes/kubernetes-reset.md)
+* [x509 Certificate Renewal](kubernetes/x509-certificate-renewal.md)
 
 ## LaTeX
 
