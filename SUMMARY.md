@@ -13,6 +13,7 @@
 * [Partition and Mount](linux/partition-and-mount.md)
 * [Vagrant and VirtualBox](linux/vagrant-and-virtualbox.md)
 * [Bind9 SRV Record](linux/bind9-srv-record.md)
+* [Git Two Remote](linux/git-two-remote.md)
 
 ## Kubernetes
 
