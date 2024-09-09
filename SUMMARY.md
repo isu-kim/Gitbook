@@ -14,6 +14,8 @@
 * [Vagrant and VirtualBox](linux/vagrant-and-virtualbox.md)
 * [Bind9 SRV Record](linux/bind9-srv-record.md)
 * [Git Two Remote](linux/git-two-remote.md)
+* [ESXi Nvidia - 525.89.02](linux/esxi-nvidia-525.89.02.md)
+* [Install Qemu](linux/install-qemu.md)
 
 ## Kubernetes
 
