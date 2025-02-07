@@ -16,6 +16,7 @@
 * [Git Two Remote](linux/git-two-remote.md)
 * [ESXi Nvidia - 525.89.02](linux/esxi-nvidia-525.89.02.md)
 * [Install Qemu](linux/install-qemu.md)
+* [Recover network (no netplan, iproute2)](linux/recover-network-no-netplan-iproute2.md)
 
 ## Kubernetes
 
